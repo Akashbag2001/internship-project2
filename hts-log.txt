@@ -1,0 +1,20 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 15 Jun 2022 19:53:52 at http://www.basantrubber.net/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://www.basantrubber.net/ -O1 "C:\Users\bagak\OneDrive\Desktop\Project2" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+19:58:04	Error: 	"Not Found" (404) at link www.basantrubber.net/Content/fonts/slick.eot (from www.basantrubber.net/Content/css?v=U8INsWj_uOEwxOrlVxdDfOA6uHfgHrhYyXTtU7seqZM1)
+19:58:04	Error: 	"Not Found" (404) at link www.basantrubber.net/Content/fonts/slick.eot? (from www.basantrubber.net/Content/css?v=U8INsWj_uOEwxOrlVxdDfOA6uHfgHrhYyXTtU7seqZM1)
+19:58:04	Error: 	"Not Found" (404) at link www.basantrubber.net/Content/fonts/slick.svg (from www.basantrubber.net/Content/css?v=U8INsWj_uOEwxOrlVxdDfOA6uHfgHrhYyXTtU7seqZM1)
+19:58:04	Error: 	"Not Found" (404) at link www.basantrubber.net/fonts/lg.svg?n1z373 (from www.basantrubber.net/Content/css?v=U8INsWj_uOEwxOrlVxdDfOA6uHfgHrhYyXTtU7seqZM1)
+19:58:04	Error: 	"Not Found" (404) at link www.basantrubber.net/img/vimeo-play.png (from www.basantrubber.net/Content/css?v=U8INsWj_uOEwxOrlVxdDfOA6uHfgHrhYyXTtU7seqZM1)
+19:58:04	Error: 	"Not Found" (404) at link www.basantrubber.net/img/video-play.png (from www.basantrubber.net/Content/css?v=U8INsWj_uOEwxOrlVxdDfOA6uHfgHrhYyXTtU7seqZM1)
+19:58:04	Error: 	"Not Found" (404) at link www.basantrubber.net/img/youtube-play.png (from www.basantrubber.net/Content/css?v=U8INsWj_uOEwxOrlVxdDfOA6uHfgHrhYyXTtU7seqZM1)
+19:58:04	Error: 	"Not Found" (404) at link www.basantrubber.net/img/loading.gif (from www.basantrubber.net/Content/css?v=U8INsWj_uOEwxOrlVxdDfOA6uHfgHrhYyXTtU7seqZM1)
+19:58:04	Error: 	"Not Found" (404) at link www.basantrubber.net/fonts/Flaticon.svg (from www.basantrubber.net/Content/css?v=U8INsWj_uOEwxOrlVxdDfOA6uHfgHrhYyXTtU7seqZM1)
+
+HTTrack Website Copier/3.49-2 mirror complete in 4 minutes 21 seconds : 131 links scanned, 121 files written (6515190 bytes overall) [6542913 bytes received at 25068 bytes/sec], 1338235 bytes transferred using HTTP compression in 31 files, ratio 98%
+(9 errors, 0 warnings, 0 messages)
