@@ -13810,15 +13810,7 @@ img {
     font-size: 11px;
   }
 
-  .header-wrap {
-    animation: logo 1s ease 0s 1 normal forwards;
-  }
-  @keyframes logo {
-    0% {
-      animation-timing-function: ease-in;
-      opacity: 0;
-      transform: translateY(-250px);
-    }
+ 
 
     38% {
       animation-timing-function: ease-out;
@@ -15141,7 +15133,7 @@ img {
   text-decoration: none;
 }
 
-@media screen and (max-width: 767px) {
+@media screen and (max-width: 820px) {
   .telegram-button {
     width: 55px;
     border-radius: 50%;
