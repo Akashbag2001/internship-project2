@@ -13509,6 +13509,7 @@ img {
   }
 
   #header .right-col {
+   
     width: 70%;
   }
 
@@ -13791,7 +13792,7 @@ img {
   }
 
   .header .MainMenu {
-    top: 78px;
+    top: 130px;
   }
 
   #header .social a {
@@ -15090,8 +15091,8 @@ img {
   z-index: 100;
   position: fixed;
 
-  bottom: 40px;
-  left: 40px;
+  bottom: 120px;
+  right: 40px;
 
   /*round corners*/
   border-radius: 10px;
@@ -15141,14 +15142,25 @@ img {
 }
 
 /* Social Media */
+
 .social-icons.ul {
   padding: 0;
   list-style: none;
+  
 }
 .footer-social-icons {
   width: 350px;
   display: block;
+  
   margin: 0 auto;
+}
+.header-social-icons {
+  width: 350px;
+  
+  display:block;
+  
+  
+  margin: 0 600px;
 }
 .social-icon {
   color: #fff;
@@ -15236,4 +15248,15 @@ ul.social-icons {
 }
 .fa-github:hover {
   background-color: #5a32a3;
+}
+
+
+@media screen and (max-width: 1024px) {
+  .header-social-icons{
+    width: 180px;
+    display:inline;
+    font-size: 10px;
+    margin: 0 150px;
+  }
+  
 }
